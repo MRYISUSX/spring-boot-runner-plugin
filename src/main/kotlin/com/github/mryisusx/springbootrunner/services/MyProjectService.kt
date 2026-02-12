@@ -1,9 +1,9 @@
-package com.github.mryisusx.springbootrunnerplugin.services
+package com.github.mryisusx.springbootrunner.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.mryisusx.springbootrunnerplugin.MyBundle
+import com.github.mryisusx.springbootrunner.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

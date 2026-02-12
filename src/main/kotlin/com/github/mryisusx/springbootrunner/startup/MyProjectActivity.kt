@@ -1,4 +1,4 @@
-package com.github.mryisusx.springbootrunnerplugin.startup
+package com.github.mryisusx.springbootrunner.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

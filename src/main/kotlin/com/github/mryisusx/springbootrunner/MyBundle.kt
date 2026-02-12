@@ -1,4 +1,4 @@
-package com.github.mryisusx.springbootrunnerplugin
+package com.github.mryisusx.springbootrunner
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

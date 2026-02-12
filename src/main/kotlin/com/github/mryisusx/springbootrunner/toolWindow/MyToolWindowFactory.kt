@@ -1,4 +1,4 @@
-package com.github.mryisusx.springbootrunnerplugin.toolWindow
+package com.github.mryisusx.springbootrunner.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.mryisusx.springbootrunnerplugin.MyBundle
-import com.github.mryisusx.springbootrunnerplugin.services.MyProjectService
+import com.github.mryisusx.springbootrunner.MyBundle
+import com.github.mryisusx.springbootrunner.services.MyProjectService
 import javax.swing.JButton
 
 
